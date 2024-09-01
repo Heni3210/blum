@@ -1,0 +1,1 @@
+user=%7B%22id%22%3A6512028498%2C%22first_name%22%3A%22lovee%F0%9F%A6%B4%22%2C%22last_name%22%3A%22%22%2C%22username%22%3A%22xaltd%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1725150707&hash=7af9c7984c897c2c20a00b5cd485e3fc53698cc1194683e41117247882299577
